@@ -66,5 +66,5 @@ Check out the [contributing](https://github.com/matheus13f/Workout_NextJs/blob/m
 
 # :closed_book: License
 
-Released in 2021.
+Released in 2020.
 This project is under the [MIT license](https://github.com/matheus13f/Recriando_Interface_Instagram/master/LICENSE).
